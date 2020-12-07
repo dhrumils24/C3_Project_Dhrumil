@@ -12,6 +12,7 @@ class RestaurantServiceTest {
     LocalTime closingTime = LocalTime.parse("22:00:00");
     Restaurant restaurant = service.addRestaurant("Amelie's cafe","Chennai",openingTime,closingTime);
     //REFACTOR ALL THE REPEATED LINES OF CODE
+    //Part 2
 
 
     //>>>>>>>>>>>>>>>>>>>>>>SEARCHING<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
