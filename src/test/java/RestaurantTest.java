@@ -7,6 +7,7 @@ import org.mockito.junit.jupiter.MockitoExtension;
 import java.time.LocalTime;
 
 import static org.junit.jupiter.api.Assertions.*;
+//part 2
 @ExtendWith(MockitoExtension.class)
 class RestaurantTest {
     Restaurant restaurant;

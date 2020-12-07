@@ -2,7 +2,7 @@ import java.time.LocalDateTime;
 import java.time.LocalTime;
 import java.util.ArrayList;
 import java.util.List;
-
+//part 2
 public class Restaurant {
     private String name;
     private String location;
